@@ -1,0 +1,3 @@
+Fitnsess log:
+	15.03.2018: Anfangen vom erstellen der Seite Muskelaufbau, design der index.html ausgebaut, 
+		    Design abspruch der index.html und Muskelaufbau.html
