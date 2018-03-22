@@ -2,3 +2,4 @@ Fitnsess log:
 	15.03.2018: Anfangen vom erstellen der Seite Muskelaufbau, design der index.html ausgebaut, 
 		    Design abspruch der index.html und Muskelaufbau.html
 	20.03.2018: Tipp erstellung von Muskelaufbau
+	22.03.2018: Fertigstellung der ersten Übung 
