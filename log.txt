@@ -3,3 +3,4 @@ Fitnsess log:
 		    Design abspruch der index.html und Muskelaufbau.html
 	20.03.2018: Tipp erstellung von Muskelaufbau
 	22.03.2018: Fertigstellung der ersten Übung 
+	10.04.2018: Erster Tipp (Bauchmuskelübungen) mit vier Beispielen abgeschlossen wird an der App gearbeitet
