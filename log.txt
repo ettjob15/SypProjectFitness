@@ -5,3 +5,4 @@ Fitnsess log:
 	22.03.2018: Fertigstellung der ersten Übung 
 	10.04.2018: Erster Tipp (Bauchmuskelübungen) mit vier Beispielen abgeschlossen wird an der App gearbeitet
 	12.04.2018: Spring plannung erstellen, Fotos für Bauchmuskeltraining einfügen und Abschließung der Grundbasis für Bauchmuskeltraining
+	17.04.2018: Besprechung der derzeitigen Lage (Meilenstein)
